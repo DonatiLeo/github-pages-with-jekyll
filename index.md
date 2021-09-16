@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenue sur ma page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Mon nom est **Leo Donati**
